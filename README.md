@@ -89,12 +89,14 @@ scipy
 
 
 👨‍🔬 Authors
-| Name                  | LinkedIn                                                                                                                                            | Email                                                             | GitHub                                    |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------- |
-| **Ankit Kr. Bhasker** | [Ankit Kr. Bhasker](https://www.linkedin.com/in/ankit-bhasker)                                                                                      | [bhasker.ankit@gmail.com](mailto:bhasker.ankit@gmail.com)         | —                                         |
-| **Ashwini Kumar**     | [Ashwini Kumar](https://www.linkedin.com/mwlite/profile/me?trk=p_mwlite_feed-secondary_nav)                                                         | [ashwini.verma.564@gmail.com](mailto:ashwini.verma.564@gmail.com) | —                                         |
-| **Aryan**             | [Aryan Gupta](https://www.linkedin.com/in/aryan-gupta-75aaa7325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [aryan40314@gmail.com](mailto:aryan40314@gmail.com)               | [aryan4031](https://github.com/aryan4031) |
-| **Gurvin Kour**       | —                                                                                                                                                   | [gurvinkour1@gmail.com](mailto:gurvinkour1@gmail.com)             | —                                         |
+## 👨‍🔬 Authors
+
+| Name               | 🌐 LinkedIn | 📧 Email | 💻 GitHub |
+|--------------------|-------------|----------|-----------|
+| **Ankit Kr. Bhasker** | [🔗](https://www.linkedin.com/in/ankit-bhasker) | [✉️](mailto:bhasker.ankit@gmail.com) | — |
+| **Ashwini Kumar**     | [🔗](https://www.linkedin.com/mwlite/profile/me?trk=p_mwlite_feed-secondary_nav) | [✉️](mailto:ashwini.verma.564@gmail.com) | — |
+| **Aryan**             | [🔗](https://www.linkedin.com/in/aryan-gupta-75aaa7325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [✉️](mailto:aryan40314@gmail.com) | [🐙](https://github.com/aryan4031) |
+| **Gurvin Kour**       | — | [✉️](mailto:gurvinkour1@gmail.com) | — |
 
 
 This project is licensed under the MIT License. See LICENSE for details.
