@@ -10,6 +10,9 @@
       <a href="mailto:bhasker.ankit@gmail.com">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="28" alt="Gmail"/>
       </a>
+      <a href="https://github.com/ankitbhasker" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" width="28" alt="GitHub"/>
+      </a>
     </td>
   </tr>
   <tr>
@@ -33,7 +36,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="28" alt="Gmail"/>
       </a>
       <a href="https://github.com/aryan4031" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" alt="GitHub"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" width="28" alt="GitHub"/>
       </a>
     </td>
   </tr>
