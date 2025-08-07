@@ -94,7 +94,7 @@ scipy
 | Name               | 🌐 LinkedIn | 📧 Email | 💻 GitHub |
 |--------------------|-------------|----------|-----------|
 | **Ankit Kr. Bhasker** | [🔗](https://www.linkedin.com/in/ankit-bhasker) | [✉️](mailto:bhasker.ankit@gmail.com) | — |
-| **Ashwini Kumar**     | [🔗](https://www.linkedin.com/mwlite/profile/me?trk=p_mwlite_feed-secondary_nav) | [✉️](mailto:ashwini.verma.564@gmail.com) | — |
+| **Ashwini Kumar**     | [🔗](https://www.linkedin.com/in/ashwini-verma-21305b26a/) | [✉️](mailto:ashwini.verma.564@gmail.com) | — |
 | **Aryan**             | [🔗](https://www.linkedin.com/in/aryan-gupta-75aaa7325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [✉️](mailto:aryan40314@gmail.com) | [🐙](https://github.com/aryan4031) |
 | **Gurvin Kour**       | — | [✉️](mailto:gurvinkour1@gmail.com) | — |
 
