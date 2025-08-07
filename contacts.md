@@ -18,7 +18,7 @@
   <tr>
     <td><strong>Ashwini Kumar</strong></td>
     <td>
-      <a href="https://www.linkedin.com/mwlite/profile/me?trk=p_mwlite_feed-secondary_nav" target="_blank">
+      <a href="https://www.linkedin.com/in/ashwini-verma-21305b26a/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" alt="LinkedIn"/>
       </a>
       <a href="mailto:ashwini.verma.564@gmail.com">
